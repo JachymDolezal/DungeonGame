@@ -1,0 +1,8 @@
+C:\Users\jachy\Documents\GodotProjects\DungeonGame\.mono\temp\obj\Debug\DungeonGame.csproj.AssemblyReference.cache
+C:\Users\jachy\Documents\GodotProjects\DungeonGame\.mono\temp\obj\Debug\DungeonGame.AssemblyInfoInputs.cache
+C:\Users\jachy\Documents\GodotProjects\DungeonGame\.mono\temp\obj\Debug\DungeonGame.AssemblyInfo.cs
+C:\Users\jachy\Documents\GodotProjects\DungeonGame\.mono\temp\obj\Debug\DungeonGame.csproj.CoreCompileInputs.cache
+C:\Users\jachy\Documents\GodotProjects\DungeonGame\.mono\temp\bin\Debug\DungeonGame.dll
+C:\Users\jachy\Documents\GodotProjects\DungeonGame\.mono\temp\bin\Debug\DungeonGame.pdb
+C:\Users\jachy\Documents\GodotProjects\DungeonGame\.mono\temp\obj\Debug\DungeonGame.dll
+C:\Users\jachy\Documents\GodotProjects\DungeonGame\.mono\temp\obj\Debug\DungeonGame.pdb

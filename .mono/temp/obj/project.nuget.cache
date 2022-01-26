@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fx+BQB6LSTLwhqavt1LFlub+PDlTC+UMeya+qg9bSkWlWsWDs2jAtUau1GqXy6zgrlTdxXT4SHjhyIAgDRO/qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jachy\\Documents\\GodotProjects\\DungeonGame\\DungeonGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jachy\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\jachy\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
