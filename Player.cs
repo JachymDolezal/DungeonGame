@@ -47,6 +47,7 @@ public class Player : KinematicBody2D
 		else if(direction.x < 0){
 			sprite.FlipH=true;
 		}
+		//move and slide
 		direction=MoveAndSlide(direction,Vector2.Up);
 	}
 
