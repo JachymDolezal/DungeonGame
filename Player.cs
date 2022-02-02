@@ -14,6 +14,7 @@ public class Player : KinematicBody2D
 	public override void _Ready()
 	{
 	sprite=(Sprite)GetNode("Sprite");
+
 	}
 	public static void _Attack(){
 		GD.Print("ok");
@@ -38,6 +39,7 @@ public class Player : KinematicBody2D
 		}
 		//Player attack
 		if(Input.IsActionJustPressed("attack")){
+			sprite.SetPosition( new Vector2(10,10));
 			_Attack();
 		}
 		//direction of sprite
